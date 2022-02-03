@@ -14,4 +14,4 @@ Due to restrictions on the local high performance cluster, I switched to Python 
 - The python implementation that is used in the paper is [here](https://github.com/ToFeWe/qpricesim)
   - Even though it uses numba, it is (obviously ?) slower than the Julia implementation
   - It more thoroughly tests than the julia version
-- More resources on the project are provided on my webpage: https://www.tfwerner.com/algohumancollusion
+- More resources about the project are provided on my webpage: https://www.tfwerner.com/algohumancollusion
